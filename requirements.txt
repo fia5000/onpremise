@@ -1,3 +1,4 @@
 # Add plugins here
-https://github.com/getsentry/sentry-github/archive/master.zip
-https://github.com/getsentry/sentry-trello/archive/master.zip
+sentry-plugins
+sentry-trello
+
